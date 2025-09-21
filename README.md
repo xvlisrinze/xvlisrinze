@@ -1,3 +1,4 @@
+
 ---
 **Fullstack Developer | Tools Creator | Learn Machines**
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue)
@@ -26,7 +27,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xvlisrinze&layout=compact&theme=radical)
 
 <p align="center">
-  **Social media**<br><br>
+  <h1>Social media</h1><br><br>
   <a href="https://t.me/xvlisrinze">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
