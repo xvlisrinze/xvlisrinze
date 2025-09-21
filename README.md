@@ -26,6 +26,7 @@
 ![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xvlisrinze&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xvlisrinze&layout=compact&theme=radical)
 
+---
 <p align="center">
   Social media<br><br>
   <a href="https://t.me/xvlisrinze">
@@ -38,4 +39,3 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
----
