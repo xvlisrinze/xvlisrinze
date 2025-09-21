@@ -1,4 +1,3 @@
-# What ever everyone
 ---
 **Fullstack Developer | Tools Creator | Bug Finder**
 
