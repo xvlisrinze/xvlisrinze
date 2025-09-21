@@ -10,7 +10,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ---
   
-![Lolicon Gif]([https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://tenor.com/JSzqARyZ3m.gif))
+![Lolicon Gif]([https://tenor.com/JSzqARyZ3m.gif])
 
 
 ## 🌐 Connect with Me
