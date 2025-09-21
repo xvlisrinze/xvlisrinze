@@ -1,6 +1,7 @@
 
 ---
 **Fullstack Developer | Tools Creator | Learn Machines**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue)
 
 
@@ -24,6 +25,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Social media**
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xvlisrinze)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xvlliissh)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@miowmwatsa)
