@@ -1,8 +1,7 @@
 
 ---
 **Fullstack Developer | Tools Creator | Learn Machines**
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=xvlisrinze&style=flat-square&color=blue)
 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
