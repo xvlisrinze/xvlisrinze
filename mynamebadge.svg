@@ -9,7 +9,7 @@
     </clipPath>
   </defs>
   <rect width="175" height="30" rx="6" fill="url(#bg)"/>
-  <image href="https://raw.githubusercontent.com/xvlisrinze/xvlisrinze/refs/heads/main/Binary.svg"
+  <image href="https://raw.githubusercontent.com/xvlisrinze/xvlisrinze/main/Binary.svg"
          x="4" y="4" width="22" height="22" clip-path="url(#circle)"/>
   <text x="32" y="20" fill="#fff" font-family="Segoe UI, Arial" font-weight="600" font-size="13">
     Luis Hazairin
