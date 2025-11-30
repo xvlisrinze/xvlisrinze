@@ -1,7 +1,7 @@
 **BECKEND|FRONTEND DEVELOPER**
 > [!NOTE]
 >Easy To Learn
-<br>
+> <br>
 >Command Block [ Algoritma ]
 <br>
 >Nodejs, Python [ Variable ]
