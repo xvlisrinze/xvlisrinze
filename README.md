@@ -7,7 +7,7 @@
 <br>
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Otaku](https://img.shields.io/badge/Otaku-%F0%9F%8E%BC-FF69B4?style=for-the-badge)
+![Senpai](https://img.shields.io/badge/Senpai-%E2%99%A5-FF1493?style=for-the-badge)
 
 > [!NOTE]
 > I Love Egg Fried Rice And Terakomari
