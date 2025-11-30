@@ -1,4 +1,5 @@
 ---
+**BECKEND|FRONTEND DEVELOPER**
 Easy To Learn
 Command Block [ Algoritma ]
 Nodejs, Python [ Variable ]
