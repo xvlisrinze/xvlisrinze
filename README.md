@@ -1,4 +1,5 @@
 **BECKEND|FRONTEND DEVELOPER**
+---
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +18,7 @@
 
 > [!WARNING]
 > The Danger of a Lolicon Carbide
-
+---
 <p align="center">
   Social media<br><br>
   <a href="https://t.me/xvlisrinze">
