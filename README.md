@@ -9,8 +9,8 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Senpai](https://img.shields.io/badge/Terakomari-%E2%99%A5-FF1493?style=for-the-badge)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvlisrinze&layout=compact&theme=midnight-purple)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=xvlisrinze&color=blue&style=for-the-badge)
 > [!NOTE]
 > I Love Egg Fried Rice And Terakomari
 > <br>
