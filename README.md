@@ -1,10 +1,10 @@
 **BECKEND|FRONTEND DEVELOPER**
 > [!NOTE]
-Easy To Learn
-Command Block [ Algoritma ]
-Nodejs, Python [ Variable ]
-Php, Html [ Markdown ]
-NextJs, React [ Framework ]
+>Easy To Learn
+>Command Block [ Algoritma ]
+>Nodejs, Python [ Variable ]
+>Php, Html [ Markdown ]
+>NextJs, React [ Framework ]
 
 <p align="center">
   Social media<br><br>
