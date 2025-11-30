@@ -11,6 +11,7 @@
 ![Senpai](https://img.shields.io/badge/Terakomari-%E2%99%A5-FF1493?style=for-the-badge)
 <br>
 <br>
+![ME BADGE](https://raw.githubusercontent.com/xvlisrinze/xvlisrinze/main/badge-terakomari.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=xvlisrinze&color=blue&style=for-the-badge)
 > [!NOTE]
 > I Love Egg Fried Rice And Terakomari
