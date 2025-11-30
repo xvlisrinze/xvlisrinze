@@ -1,6 +1,5 @@
 **BECKEND|FRONTEND DEVELOPER**
-> [!WARNING]
-> PELER
+> [!NOTE]
 Easy To Learn
 Command Block [ Algoritma ]
 Nodejs, Python [ Variable ]
