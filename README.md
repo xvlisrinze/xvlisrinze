@@ -4,7 +4,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python Type Hints](https://img.shields.io/badge/Python_Type_Hints-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 > [!NOTE]
 > I Love Egg Fried Rice And Terakomari
