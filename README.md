@@ -1,5 +1,3 @@
-
----
 **BECKEND|FRONTEND DEVELOPER**
 
 Easy To Learn
@@ -7,7 +5,6 @@ Command Block [ Algoritma ]
 Nodejs, Python [ Variable ]
 Php, Html [ Markdown ]
 NextJs, React [ Framework ]
----
 <p align="center">
   Social media<br><br>
   <a href="https://t.me/xvlisrinze">
