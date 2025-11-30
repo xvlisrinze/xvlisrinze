@@ -1,14 +1,11 @@
 **BECKEND|FRONTEND DEVELOPER**
 > [!NOTE]
->Easy To Learn
+> I Love Egg Fried Rice And Terakomari
 > <br>
->Command Block [ Algoritma ]
-> <br>
->Nodejs, Python [ Variable ]
-> <br>
->Php, Html [ Markdown ]
-> <br>
->NextJs, React [ Framework ]
+> I'm Grateful to Be an Otaku
+<br>
+> [!WARNING]
+> The Danger of a Lolicon Carbide
 
 <p align="center">
   Social media<br><br>
