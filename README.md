@@ -1,10 +1,14 @@
 **BECKEND|FRONTEND DEVELOPER**
 > [!NOTE]
+<p align="center">
+  <b>Halo, Selamat Datang!</b><br>
+  Ini README paling keren 😎
 >Easy To Learn
 >Command Block [ Algoritma ]
 >Nodejs, Python [ Variable ]
 >Php, Html [ Markdown ]
 >NextJs, React [ Framework ]
+</p>
 
 <p align="center">
   Social media<br><br>
