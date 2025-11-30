@@ -1,4 +1,3 @@
-**BECKEND|FRONTEND DEVELOPER**
 ---
 Easy To Learn
 Command Block [ Algoritma ]
