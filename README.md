@@ -11,7 +11,7 @@
 ![Senpai](https://img.shields.io/badge/Terakomari-%E2%99%A5-FF1493?style=for-the-badge)
 <br>
 <br>
-![Terakomari Gandesblood](https://img.shields.io/badge/Terakomari_Gandesblood-8B0000?style=for-the-badge&logoColor=white)
+![Terakomari Gandesblood](https://img.shields.io/badge/VAMPIRE PRINCESS ♥-8B0000?style=for-the-badge&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=xvlisrinze&color=blue&style=for-the-badge)
 > [!NOTE]
 > I Love Egg Fried Rice And Terakomari
