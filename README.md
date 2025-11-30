@@ -1,6 +1,7 @@
 **BECKEND|FRONTEND DEVELOPER**
 
 Easy To Learn
+\n
 Command Block [ Algoritma ]
 Nodejs, Python [ Variable ]
 Php, Html [ Markdown ]
