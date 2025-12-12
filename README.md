@@ -13,7 +13,7 @@
 <br>
 ![Terakomari](https://raw.githubusercontent.com/xvlisrinze/xvlisrinze/refs/heads/main/mori.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=xvlisrinze&color=blue&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/xvlisrinze?logo=github&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/xvlisrinze?&style=for-the-badge)
 > [!NOTE]
 > I Love Egg Fried Rice And Terakomari
 > <br>
